@@ -1,0 +1,12 @@
+name = "scifort"
+version = "0.1.0"
+license = "license"
+author = "EivsonSilva"
+maintainer = "eivson.silva@ufpe.br"
+copyright = "Copyright 2022, EivsonSilva"
+[build]
+auto-executables = true
+auto-tests = true
+auto-examples = true
+[install]
+library = false
